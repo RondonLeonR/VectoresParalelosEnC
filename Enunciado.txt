@@ -1,0 +1,5 @@
+Ordenamiento de nombres y legajos, no importa si son hardcodeados.
+
+1- Hacer el alta
+2- Hacer la baja
+3- Modificar todo menos el legajo
